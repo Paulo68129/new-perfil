@@ -1,4 +1,30 @@
-# 👋 Hello World! Sou [Seu Nome], Desenvolvedor Full Stack
+ # Paulo Roberto Silva de Oliveira Júnior
+
+Desenvolvedor Back‑end / Full Stack em formação, com foco no desenvolvimento de aplicações web, APIs REST e sistemas com regras de negócio.
+
+## 👨‍💻 Sobre mim
+Atuo principalmente com **Node.js, JavaScript e Python**, desenvolvendo sistemas com operações CRUD, autenticação, integração com banco de dados e APIs externas.  
+Tenho experiência acadêmica e prática em projetos individuais, hackathons e programas de formação tecnológica.
+
+Este GitHub contém **projetos públicos selecionados**. Outros sistemas completos (acadêmicos e pessoais), incluindo aplicações com banco de dados, autenticação e deploy, estão disponíveis **para demonstração sob demanda**.
+
+## 🛠️ Tecnologias
+- JavaScript | Node.js | Python  
+- APIs REST | JSON | HTTP  
+- Banco de Dados Relacionais  
+- Git & GitHub  
+- Lógica de Programação e Estrutura de Dados
+
+## 🚀 Projetos em destaque
+- **Mini Hackathon – Formação Blockchain (Serratec / ECOA / PUC‑Rio)**
+- **Chess Digital** – lógica e regras de jogo
+- **Projetos acadêmicos e pessoais com deploy** (sob demanda)
+
+## 🎯 Objetivo
+Atuar como **Desenvolvedor Back‑end Júnior**, contribuindo com código limpo, aprendizado contínuo e desenvolvimento de soluções reais.
+
+📫 Contato: LinkedIn | GitHub
+``
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
